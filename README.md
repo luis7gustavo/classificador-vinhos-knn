@@ -45,11 +45,4 @@ O modelo otimizado demonstrou uma performance excelente, com uma **acurácia de 
 | Recall (Ponderado)    | 0.9556 |
 | F1-Score (Ponderado)  | 0.9551 |
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/seu-usuario/classificador_de_vinhos_knn/main/visualizations/confusion_matrix.png" alt="Matriz de Confusão" width="400"/>
-  <img src="https://raw.githubusercontent.com/seu-usuario/classificador_de_vinhos_knn/main/visualizations/accuracy_vs_k.png" alt="Acurácia vs. K" width="400"/>
-</p>
-
-**Observação:** Para que as imagens acima apareçam, você precisa fazer o upload do repositório para o GitHub e substituir `seu-usuario/classificador_de_vinhos_knn` pelo caminho real do seu repositório.
-
 ## 📂 Estrutura do Projeto
